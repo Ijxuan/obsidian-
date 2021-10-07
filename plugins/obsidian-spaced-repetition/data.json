@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "flashcardTags": [
+      "#flashcards"
+    ],
+    "convertFoldersToDecks": false,
+    "cardCommentOnSameLine": true,
+    "burySiblingCards": false,
+    "showContextInCards": true,
+    "flashcardHeightPercentage": 80,
+    "flashcardWidthPercentage": 40,
+    "showFileNameInFileLink": false,
+    "randomizeCardOrder": true,
+    "convertHighlightsToClozes": true,
+    "convertBoldTextToClozes": true,
+    "singlelineCardSeparator": "::",
+    "singlelineReversedCardSeparator": ":::",
+    "multilineCardSeparator": "?",
+    "multilineReversedCardSeparator": "??",
+    "tagsToReview": [
+      "#review",
+      "#mytag1"
+    ],
+    "noteFoldersToIgnore": [],
+    "openRandomNote": true,
+    "autoNextNote": true,
+    "disableFileMenuReviewOptions": false,
+    "maxNDaysNotesReviewQueue": 365,
+    "baseEase": 130,
+    "lapsesIntervalChange": 0.5,
+    "easyBonus": 1,
+    "maximumInterval": 101,
+    "maxLinkFactor": 1,
+    "showDebugMessages": false
+  },
+  "buryDate": "2021-10-05",
+  "buryList": []
+}

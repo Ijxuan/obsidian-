@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "9048e275f6f3e50a",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d1841392432c1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20211007.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fb16607312601c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "edeca754179a6009",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9a227f137320d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "48c479e62b4515a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#flashcards",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cadaacf39394936",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.99999809265137
+  },
+  "right": {
+    "id": "b452f178eb9241e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "efdbdd0331c44ab4",
+        "type": "tabs",
+        "dimension": 43.70771312584574,
+        "children": [
+          {
+            "id": "19897bdb5e69f0c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20211007.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06579eba2577b720",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "3fd9017e0cf72216",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day Planners/Day Planner-20211007.md"
+              }
+            }
+          },
+          {
+            "id": "fe6b92020158ce2c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2466fb9d2a44c9a6",
+        "type": "tabs",
+        "dimension": 56.29228687415426,
+        "children": [
+          {
+            "id": "5eb74a48a78b66ca",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.4285888671875
+  },
+  "active": "36d1841392432c1b",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20211007.md",
+    "插件/每日计划格式.md",
+    "插件/day planne每日计划.md",
+    "Day Planners/Day Planner-20211006.md",
+    "插件/未命名.md",
+    "插件/day planne.md",
+    "不定积分.md",
+    "对数恒等式.md",
+    "等价无穷小替换.md",
+    "乘积形式化成和差形式.md"
+  ]
+}

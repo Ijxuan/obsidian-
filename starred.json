@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Editor Syntax Highlight",
+      "path": "插件/Editor Syntax Highlight.md"
+    },
+    {
+      "type": "file",
+      "title": "Day Planner-20211006",
+      "path": "Day Planners/Day Planner-20211006.md"
+    }
+  ]
+}
